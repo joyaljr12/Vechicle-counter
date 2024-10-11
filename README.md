@@ -20,6 +20,6 @@ Prerequisites
 2. Libraries:
     1. OpenCV
    2. cvzone
-  3. ultralytics (for YOLOv8)
+   3. ultralytics (for YOLOv8)
    4. NumPy
-    5. SORT (custom implementation)
+   5. SORT (custom implementation)
