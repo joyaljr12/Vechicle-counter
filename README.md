@@ -13,3 +13,13 @@ Technologies Used:
 4. cvzone: For drawing bounding boxes and text on frames.
 4. SORT Algorithm: Used for multi-object tracking and vehicle ID assignment.
 5. NumPy: For numerical operations on detection data.
+
+Installation
+Prerequisites
+1.Python 3.x
+2.Libraries:
+   1. OpenCV
+   2 cvzone
+   3.ultralytics (for YOLOv8)
+   4. NumPy
+   5. SORT (custom implementation)
