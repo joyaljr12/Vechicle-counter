@@ -1,1 +1,0 @@
-This project is a Vehicle Detection and Counting System that utilizes YOLOv8 for object detection and the SORT algorithm for multi-object tracking. It is designed to detect and count vehicles (such as cars, trucks, buses, vans, and motorbikes) in video footage, with real-time performance, making it useful for traffic analysis and management.
